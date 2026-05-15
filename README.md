@@ -1,2 +1,2 @@
-"# Мой первый репозиторий" 
+"# My First repo" 
 "# my-first-repo" 
